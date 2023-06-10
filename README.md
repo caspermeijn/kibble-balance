@@ -13,3 +13,7 @@ NIST [published](https://www.nist.gov/si-redefinition/kilogram/nist-do-it-yourse
 ## Goal
 
 I want to build a working Kibble balance using a 3D printer, readily available parts, and a custom-printed circuit board.
+
+## Documentation
+
+- [NIST LEGO Watt balance paper](docs/NIST%20LEGO%20Watt%20balance.pdf)
