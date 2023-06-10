@@ -1,0 +1,10 @@
+// Copyright (C) 2023 Casper Meijn <casper@meijn.net>
+//
+// SPDX-License-Identifier: CC0-1.0
+{
+    "recommendations": [
+        "znck.grammarly",
+        "davidanson.vscode-markdownlint",
+        "tomoki1207.pdf"
+    ]
+}
